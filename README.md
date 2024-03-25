@@ -1,2 +1,2 @@
-# vcpkg-registry
-vcpkg-registry
+# my-vcpkg
+my-vcpkg
